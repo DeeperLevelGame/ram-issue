@@ -8,7 +8,6 @@ This repository demonstrates a memory (RAM) usage issue when using Streamlit, wi
    ```
    git clone https://github.com/yourusername/ram-issue.git
    cd ram-issue
-
 2. ```
    pip install -r requirements.txt
 3. ```
