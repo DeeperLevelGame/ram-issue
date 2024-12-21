@@ -6,7 +6,7 @@ This repository demonstrates a memory (RAM) usage issue when using Streamlit, wi
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/ram-issue.git
+   git clone https://github.com/deeperlevelgame/ram-issue.git
    cd ram-issue
 2. ```
    pip install -r requirements.txt
