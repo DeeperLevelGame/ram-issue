@@ -1,2 +1,2 @@
 [global] 
-global.storeCachedForwardMessagesInMemory = False
+storeCachedForwardMessagesInMemory = false
